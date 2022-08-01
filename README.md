@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hello there 👋</h3>
 
-<h2 align="center">✨ I'm Ankuj Pandey ✨</h2>
+<h3 align="center">✨ I'm Ankuj Pandey ✨</h3>
 
 <!--
 **ankujpandey/ankujpandey** is a ✨ Ankuj ✨ repository because its `README.md` (this file) appears on your GitHub profile.
