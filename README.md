@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">My Social Media Acounts</h3>
 <p align="center">
-    <a href=""><img src="https://user-images.githubusercontent.com/82190152/182242457-0f01e5fc-4b6e-46e1-8e0e-d60055c1b1a7.png" /></a>
+    <a href="https://www.facebook.com/ankujpandey.pandey">
+        <img src="https://user-images.githubusercontent.com/82190152/182242457-0f01e5fc-4b6e-46e1-8e0e-d60055c1b1a7.png" />
+    </a>
     <a href="https://www.instagram.com/ankujpandey">
         <img src="https://user-images.githubusercontent.com/82190152/182242464-c884234d-527e-4360-b41a-caf92f7fdaa3.png" />
     </a>
