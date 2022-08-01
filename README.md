@@ -1,4 +1,6 @@
-<h3 align="center"> Hello there 👋</h3>
+<h3 align="center">👋 Hello there 👋</h3>
+
+<h4 align="center">✨ I'm Ankuj Pandey ✨</h4>
 <br>
 
 <!--
