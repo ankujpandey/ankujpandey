@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <p align="center">
  <a href="https://www.facebook.com/ankujpandey.pandey"><img src="https://user-images.githubusercontent.com/82190152/182242457-0f01e5fc-4b6e-46e1-8e0e-d60055c1b1a7.png" width="160" height="70" /></a>
  &emsp;
- <a href="https://www.instagram.com/ankujpandey"><img src="https://user-images.githubusercontent.com/82190152/182242464-c884234d-527e-4360-b41a-caf92f7fdaa3.png" width="160" height="70" /></a>
+ <a href="https://www.instagram.com/ankujpandey"><img src="https://user-images.githubusercontent.com/82190152/182242464-c884234d-527e-4360-b41a-caf92f7fdaa3.png" width="160" height="69" /></a>
  &emsp;
  <a href="https://www.linkedin.com/in/ankuj-pandey"><img src="https://user-images.githubusercontent.com/82190152/182242476-b1bc5e07-25b7-4748-abf8-916cc38d7e79.png" width="165" height="75" /></a>
 </p>
