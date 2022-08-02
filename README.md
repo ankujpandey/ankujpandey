@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">My Social Media Acounts</h3>
 <p align="center">
- <a href="https://www.facebook.com/ankujpandey.pandey"><img src="https://user-images.githubusercontent.com/82190152/182242457-0f01e5fc-4b6e-46e1-8e0e-d60055c1b1a7.png" width="160" height="70" /></a>
+ <a href="https://www.facebook.com/ankujpandey.pandey"><img src="https://user-images.githubusercontent.com/82190152/182396651-eed6fbb8-da74-42b0-b8e9-9e57cb47dea6.png" width="160" height="70" /></a>
  &emsp;
- <a href="https://www.instagram.com/ankujpandey"><img src="https://user-images.githubusercontent.com/82190152/182242464-c884234d-527e-4360-b41a-caf92f7fdaa3.png" width="160" height="69" /></a>
+ <a href="https://www.instagram.com/ankujpandey"><img src="https://user-images.githubusercontent.com/82190152/182396641-47193d2d-e724-4edd-becf-50f035f0db24.png" width="160" height="70" /></a>
  &emsp;
- <a href="https://www.linkedin.com/in/ankuj-pandey"><img src="https://user-images.githubusercontent.com/82190152/182242476-b1bc5e07-25b7-4748-abf8-916cc38d7e79.png" width="165" height="75" /></a>
+ <a href="https://www.linkedin.com/in/ankuj-pandey"><img src="https://user-images.githubusercontent.com/82190152/182396652-67b57c05-fe41-4b0e-a050-5dc01bb74c25.png" width="160" height="70" /></a>
 </p>
+
 
