@@ -39,5 +39,3 @@ Here are some ideas to get you started:
  &emsp;
  <a href="https://www.linkedin.com/in/ankuj-pandey"><img src="https://user-images.githubusercontent.com/82190152/182396652-67b57c05-fe41-4b0e-a050-5dc01bb74c25.png" width="160" height="70" /></a>
 </p>
-
-
