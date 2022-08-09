@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <hr>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankujpandey&show_icons=true&locale=en&layout=compact" alt="ovi" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankujpandey&show_icons=true&locale=en&layout=compact" alt="ovi" width="345" />
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=ankujpandey&show_icons=true&locale=en" alt="ovi" width="410" />
   <br>
   <br>
